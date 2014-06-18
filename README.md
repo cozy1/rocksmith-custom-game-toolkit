@@ -1,4 +1,6 @@
 rocksmith-custom-game-mods
 ==========================
 
-Custom Game Mods for Rocksmith 2014
+Custom Game Toolkit for Rocksmith 2014
+
+Details on this project can be found at: 	goo.gl/e9HTls
